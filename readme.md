@@ -2,7 +2,7 @@
 This code is solely to run Hello World! program on a quantum simulator and understand different logic gates present in quantum circuit. 
 
 ## Installation
-
+Python version 3.7
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install qiskit.
 
 ```bash
