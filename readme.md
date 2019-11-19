@@ -9,20 +9,15 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install qiskit.
 pip install qiskit
 ```
 
-## Usage
+## Run
 
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
+```bash
+python random_number_quantum_computer.py  
 ```
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+## SDK
+Qiskit is an open-source quantum computing software development framework for leveraging today's quantum processors in research, education, and business
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
